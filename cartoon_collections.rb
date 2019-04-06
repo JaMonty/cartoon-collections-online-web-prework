@@ -1,8 +1,10 @@
-def roll_call_dwarves# code an argument here
+def roll_call_dwarves("dwarfs")
+dwarves = ["Doc", "Dopey", "Grumpy", "Bashful"]
   # Your code here
 end
 
-def summon_captain_planet# code an argument here
+def summon_captain_planet("planteer_calls")
+  planteer_calls = ["earth", "wind","fire", "water", "heart"]
   # Your code here
 end
 
